@@ -1,5 +1,5 @@
 # hackchallenge
-1. Cornell Grub
+1. Cornell Foodies
 2. Discover food on campus
 3.![image](https://user-images.githubusercontent.com/132315240/236598322-7ce07fc7-9bd7-4afe-a673-c5b4225902ff.png)
   ![image](https://user-images.githubusercontent.com/132315240/236598351-6009d4f4-29f3-410e-b01c-cd49c82f139c.png)
