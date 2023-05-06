@@ -1,7 +1,9 @@
 # hackchallenge
 1. Cornell Grub
 2. Discover food on campus
-3. ![image](https://user-images.githubusercontent.com/132315240/236598322-7ce07fc7-9bd7-4afe-a673-c5b4225902ff.png), ![image](https://user-images.githubusercontent.com/132315240/236598351-6009d4f4-29f3-410e-b01c-cd49c82f139c.png), ![image](https://user-images.githubusercontent.com/132315240/236598367-1e0b0011-0112-4817-b7f3-2e9991cfb3a8.png)
+3.![image](https://user-images.githubusercontent.com/132315240/236598322-7ce07fc7-9bd7-4afe-a673-c5b4225902ff.png)
+  ![image](https://user-images.githubusercontent.com/132315240/236598351-6009d4f4-29f3-410e-b01c-cd49c82f139c.png)
+  ![image](https://user-images.githubusercontent.com/132315240/236598367-1e0b0011-0112-4817-b7f3-2e9991cfb3a8.png)
 
 5.
 6. Our app is a custom-made Cornell food review app that shows students’ thoughts on each dining hall on campus. When the app opens, the user can click on one of the ten dining halls to see its reviews. While looking at the reviews of a dining hall, the user can also leave a review using the “Leave a Review” button in the top right. This will take the user to a separate screen where they can give the restaurant a star rating and a written review of their dining experience. After clicking the “Submit Review” button, the user can refresh the list of reviews by dragging the screen upwards and their new review will be shown.
